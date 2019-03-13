@@ -1,0 +1,1 @@
+scalac -classpath /home/s-n/Pulpit/tesciory/target/scala-2.12/classes -bootclasspath /home/s-n/.sbt/boot/scala-2.12.7/lib/scala-library.jar /home/s-n/Pulpit/tesciory/scala.scala
